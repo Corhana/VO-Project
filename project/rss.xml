@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="http://www.cineworld.ie/" media="screen"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>NoaSer</title>
+    <link>http://www.rottentomatoes.com/</link>
+    <description>http://www.rottentomatoes.com/
+movie revews 
+http://www.imdb.com/</description>
+    <language>en-us</language>
+    <managingEditor>Valeriu.Olariu@yahoo.com</managingEditor>
+    <webMaster>Valeriu.Olariu@yahoo.com</webMaster>
+    <copyright>Corhana</copyright>
+    <image>
+      <title>NoaSer</title>
+      <link>http://www.rottentomatoes.com/</link>
+      <url>C:\Users\Vali\DesktopRSS_icon.png</url>
+      <width>30</width>
+      <height>30</height>
+    </image>
+    <item>
+      <title>dubin movie </title>
+      <pubDate>Sat, 19 Dec 2015 10:32:33 GMT</pubDate>
+      <link>http://www.cineworld.ie/</link>
+      <enclosure url="http://www.cineworld.ie/" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>imbd</title>
+      <pubDate>Sat, 19 Dec 2015 08:35:21 GMT</pubDate>
+      <link>http://www.imdb.com/</link>
+      <author>Valeriu.Olariu@yahoo.com</author>
+      <category>movies</category>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Movies </title>
+      <pubDate>Sat, 19 Dec 2015 08:34:19 GMT</pubDate>
+      <link>http://www.rottentomatoes.com/</link>
+      <guid isPermaLink="true">http://www.rottentomatoes.com/</guid>
+      <author>Valeriu.Olariu@yahoo.com</author>
+      <category>movies</category>
+      <enclosure url="http://www.rottentomatoes.com/" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+  </channel>
+</rss>
