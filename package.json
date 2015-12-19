@@ -1,21 +1,18 @@
-
-  "scripts": {
-    "start": "http-server -a $IP -p $PORT"
-  },
-  "dependencies": {
-    "socket.io": "~0.9.14",
-    "jstoxml": "^0.2.3",
-    "js2xmlparser": "^1.0.0",
-    "fs": "0.0.2",
-    "express": "~3.2.4",
-    "easyxml": "^1.0.0",
-    "body-parser": "^1.14.1",
-    "async": "~0.2.8"
-  },
-  "author": "Mostafa Eweda <mo.eweda@gmail.com>",
-  "repository": "",
-  "main": "server.js",
-  "description": "A chat example to showcase how to use `socket.io` with a static `express` server with `async` for control flow.",
+{
+  "name": "chat-example",
   "version": "0.0.0",
-  "name": "chat-example"
+  "description": "A chat example to showcase how to use `socket.io` with a static `express` server with `async` for control flow.",
+  "main": "server.js",
+  "repository": "",
+  "author": "Mostafa Eweda <mo.eweda@gmail.com>",
+  "dependencies": {
+    "async": "~0.2.8",
+    "body-parser": "^1.14.1",
+    "easyxml": "^1.0.0",
+    "express": "~3.2.4",
+    "fs": "0.0.2",
+    "js2xmlparser": "^1.0.0",
+    "jstoxml": "^0.2.3",
+    "socket.io": "~0.9.14"
+  }
 }
